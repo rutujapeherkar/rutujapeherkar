@@ -1,40 +1,66 @@
 <h1 align="center">Hi 👋, I'm Rutuja Peherkar</h1>
-<h3 align="center">Computer Science Student | Aspiring Software Developer</h3>
+<h3 align="center">Computer Science Student | Aspiring Software & Web Developer</h3>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=rutujapeherkar&label=Profile%20views&color=0e75b6&style=flat" alt="rutujapeherkar" />
+</p>
 
 ---
 
-### 👩‍💻 About Me
-
-I am a motivated Computer Science student with strong programming fundamentals and hands-on experience in building mini-projects and web-based applications.  
-I enjoy problem-solving, learning new technologies, and applying my skills to real-world use cases.
-
-Currently seeking a **Software Development Internship** to grow as a developer and contribute meaningfully.
+- 🔭 I’m currently working on **Web Development & Web Projects**
+- 🌱 I’m currently learning **DSA in Java and Version Controls**
+- 💬 Ask me about **C, C++, Java, Python (Basic), Data Structures, HTML, CSS, Git**
+- 📫 How to reach me **rutujapeherkar30@gmail.com**
 
 ---
 
-### 🛠️ Skills Snapshot
-
-- **Languages:** C, C++, Java, Basic Python  
-- **Core:** Data Structures & Algorithms, OOP  
-- **Web:** HTML, CSS, JavaScript, Tailwind CSS  
-- **Tools:** Git, GitHub, VS Code, Linux  
-- **Database:** SQL  
-
----
-
-### 📌 Highlighted Work
-
-- Built a **responsive sponsored website** for an event venue, focusing on UI, content structure, and user interaction  
-- Developed **multiple Python mini-projects** to strengthen logic building and core programming concepts  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/rutuja-peherkar" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
+<a href="https://github.com/rutujapeherkar" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="30" width="40"/>
+</a>
+</p>
 
 ---
 
-### 🌐 Connect With Me
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
 
-- 🔗 LinkedIn: https://www.linkedin.com/in/rutuja-peherkar  
-- 💻 GitHub: https://github.com/rutujapeherkar  
-- 📫 Email: rutujapeherkar30@gmail.com  
+<!-- C -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+
+<!-- C++ -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+
+<!-- Python (Basic) -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+
+<!-- Java (Core + Advanced Java) -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+
+<!-- Data Structures & Algorithms -->
+<img src="https://cdn-icons-png.flaticon.com/512/2103/2103658.png" width="40"/>
+
+<!-- HTML -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+
+<!-- CSS -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+
+<!-- GitHub -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+
+</p>
 
 ---
 
-⭐ *Thanks for visiting my profile!*
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rutujapeherkar&layout=compact" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rutujapeherkar&show_icons=true" />
+</p>
