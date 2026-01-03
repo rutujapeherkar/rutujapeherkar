@@ -1,73 +1,117 @@
-<h1 align="center">Hi 👋, I'm Rutuja Peherkar</h1>
-<h3 align="center">Aspiring Web & Application Developer from India 🇮🇳</h3>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=rutujapeherkar&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rutujapeherkar&theme=onedark&row=1&column=6" alt="trophies"/>
-  </a>
-</p>
+<h1 align="center">Hi 👋, I'm Rutuja Bhaginath Peherkar</h1>
+<h3 align="center">Computer Science Student | Aspiring Software Developer</h3>
 
 ---
 
-### 🚀 About Me
+### 👩‍💻 About Me
 
-- 🔭 Currently working on **Web Development & JavaScript Projects**
-- 🌱 Learning **Tailwind CSS, REST APIs, and Linux**
-- 💬 Ask me about **JavaScript, Git, GitHub, Linux**
-- 📫 Reach me at **rutujapeherkar30@gmail.com**
-- ⚡ Passionate about building **real-world, user-focused applications**
+Motivated undergraduate with strong programming fundamentals and hands-on experience in building real-world projects.  
+I enjoy solving problems, learning new technologies, and applying my skills to practical applications.  
+Currently seeking a **Software Development Internship** to create real-world impact.
 
----
-
-### 🌐 Connect with Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/rutuja-peherkar" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-</a>
-<a href="https://github.com/rutujapeherkar" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="30" width="40"/>
-</a>
-</p>
+- 📍 Pune, India  
+- 📫 Email: **rutujapeherkar30@gmail.com**  
+- 🔗 LinkedIn: https://www.linkedin.com/in/rutuja-peherkar  
+- 💻 GitHub: https://github.com/rutujapeherkar  
 
 ---
 
-### 🛠️ Languages & Tools
+### 🎓 Education
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
-</p>
+**COEP Technological University, Pune**  
+*B.Tech – Computer Science and Engineering*  
+**CGPA:** 8.71 / 10  
 
----
+**Government Polytechnic, Aurangabad**  
+*Diploma – Computer Engineering*  
+**Percentage:** 98%  
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rutujapeherkar&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rutujapeherkar&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rutujapeherkar&layout=compact&theme=tokyonight" />
-</p>
+**Mount Valley English School, Aurangabad**  
+*SSC (Maharashtra State Board)*  
+**Percentage:** 96.40%  
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
+### 🛠️ Technical Skills
+
+**Programming Languages**
+- C, C++, Java, Advanced Java  
+- Basic Python  
+
+**Core Concepts**
+- Data Structures & Algorithms  
+- Object-Oriented Programming  
+
+**Web Technologies**
+- HTML, CSS, JavaScript  
+- Tailwind CSS  
+
+**Databases**
+- SQL  
+
+**Tools & Platforms**
+- Git, GitHub  
+- Visual Studio Code, PyCharm  
+- XAMPP, TinkerCAD  
+
+---
+
+### 📂 Projects
+
+#### 🌐 Venuease – Sponsored Website for *Sagar Lawns*
+**Team Size:** 6  
+**Tech Stack:** HTML, CSS, JavaScript, Tailwind CSS, SQL, XAMPP, Git  
+
+- Designed and developed a responsive sponsored website  
+- Improved digital visibility through service showcases and gallery  
+- Implemented customer inquiry functionality  
+
+---
+
+#### 🐍 Python Mini Projects Collection
+**Team Size:** 1  
+**Tech Stack:** Python, Git  
+🔗 Project Link: https://github.com/rutujapeherkar/python-practicals-collection.git  
+
+- Built multiple Python mini projects  
+- Strengthened core Python concepts and logical problem-solving  
+- Hands-on implementation of real programming scenarios  
+
+---
+
+### 🧑‍💼 Internship Experience
+
+**IoT Internship – Enovate Skill, Chandigarh (Online)**  
+- Worked with virtual hardware simulations using **TinkerCAD**  
+- Learned basics of sensors, microcontrollers, and IoT concepts  
+
+---
+
+### 📜 Certifications
+
+- Fundamentals of C Language – Infosys  
+- Cloud Computing – Infosys  
+- Computer Networks – Infosys  
+
+---
+
+### 🌟 Achievements & Leadership
+
+- 🥇 **Institute Topper & Class Topper** – Final Year Diploma  
+- 👩‍💼 **President**, ASCE & AIDIAS Committees – 3rd Year Diploma  
+- 🏫 **Class Representative** – 2nd Year Diploma  
+
+---
+
+### 🤝 Soft Skills
+
+- Communication Skills  
+- Teamwork & Collaboration  
+- Leadership  
+- Responsibility & Ownership  
+
+---
+
+⭐ *Thank you for visiting my profile. Feel free to explore my repositories and connect with me!*
+
 
