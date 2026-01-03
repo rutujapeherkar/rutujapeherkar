@@ -1,117 +1,40 @@
-<h1 align="center">Hi 👋, I'm Rutuja Bhaginath Peherkar</h1>
+<h1 align="center">Hi 👋, I'm Rutuja Peherkar</h1>
 <h3 align="center">Computer Science Student | Aspiring Software Developer</h3>
 
 ---
 
 ### 👩‍💻 About Me
 
-Motivated undergraduate with strong programming fundamentals and hands-on experience in building real-world projects.  
-I enjoy solving problems, learning new technologies, and applying my skills to practical applications.  
-Currently seeking a **Software Development Internship** to create real-world impact.
+I am a motivated Computer Science student with strong programming fundamentals and hands-on experience in building mini-projects and web-based applications.  
+I enjoy problem-solving, learning new technologies, and applying my skills to real-world use cases.
 
-- 📍 Pune, India  
-- 📫 Email: **rutujapeherkar30@gmail.com**  
+Currently seeking a **Software Development Internship** to grow as a developer and contribute meaningfully.
+
+---
+
+### 🛠️ Skills Snapshot
+
+- **Languages:** C, C++, Java, Basic Python  
+- **Core:** Data Structures & Algorithms, OOP  
+- **Web:** HTML, CSS, JavaScript, Tailwind CSS  
+- **Tools:** Git, GitHub, VS Code, Linux  
+- **Database:** SQL  
+
+---
+
+### 📌 Highlighted Work
+
+- Built a **responsive sponsored website** for an event venue, focusing on UI, content structure, and user interaction  
+- Developed **multiple Python mini-projects** to strengthen logic building and core programming concepts  
+
+---
+
+### 🌐 Connect With Me
+
 - 🔗 LinkedIn: https://www.linkedin.com/in/rutuja-peherkar  
 - 💻 GitHub: https://github.com/rutujapeherkar  
+- 📫 Email: rutujapeherkar30@gmail.com  
 
 ---
 
-### 🎓 Education
-
-**COEP Technological University, Pune**  
-*B.Tech – Computer Science and Engineering*  
-**CGPA:** 8.71 / 10  
-
-**Government Polytechnic, Aurangabad**  
-*Diploma – Computer Engineering*  
-**Percentage:** 98%  
-
-**Mount Valley English School, Aurangabad**  
-*SSC (Maharashtra State Board)*  
-**Percentage:** 96.40%  
-
----
-
-### 🛠️ Technical Skills
-
-**Programming Languages**
-- C, C++, Java, Advanced Java  
-- Basic Python  
-
-**Core Concepts**
-- Data Structures & Algorithms  
-- Object-Oriented Programming  
-
-**Web Technologies**
-- HTML, CSS, JavaScript  
-- Tailwind CSS  
-
-**Databases**
-- SQL  
-
-**Tools & Platforms**
-- Git, GitHub  
-- Visual Studio Code, PyCharm  
-- XAMPP, TinkerCAD  
-
----
-
-### 📂 Projects
-
-#### 🌐 Venuease – Sponsored Website for *Sagar Lawns*
-**Team Size:** 6  
-**Tech Stack:** HTML, CSS, JavaScript, Tailwind CSS, SQL, XAMPP, Git  
-
-- Designed and developed a responsive sponsored website  
-- Improved digital visibility through service showcases and gallery  
-- Implemented customer inquiry functionality  
-
----
-
-#### 🐍 Python Mini Projects Collection
-**Team Size:** 1  
-**Tech Stack:** Python, Git  
-🔗 Project Link: https://github.com/rutujapeherkar/python-practicals-collection.git  
-
-- Built multiple Python mini projects  
-- Strengthened core Python concepts and logical problem-solving  
-- Hands-on implementation of real programming scenarios  
-
----
-
-### 🧑‍💼 Internship Experience
-
-**IoT Internship – Enovate Skill, Chandigarh (Online)**  
-- Worked with virtual hardware simulations using **TinkerCAD**  
-- Learned basics of sensors, microcontrollers, and IoT concepts  
-
----
-
-### 📜 Certifications
-
-- Fundamentals of C Language – Infosys  
-- Cloud Computing – Infosys  
-- Computer Networks – Infosys  
-
----
-
-### 🌟 Achievements & Leadership
-
-- 🥇 **Institute Topper & Class Topper** – Final Year Diploma  
-- 👩‍💼 **President**, ASCE & AIDIAS Committees – 3rd Year Diploma  
-- 🏫 **Class Representative** – 2nd Year Diploma  
-
----
-
-### 🤝 Soft Skills
-
-- Communication Skills  
-- Teamwork & Collaboration  
-- Leadership  
-- Responsibility & Ownership  
-
----
-
-⭐ *Thank you for visiting my profile. Feel free to explore my repositories and connect with me!*
-
-
+⭐ *Thanks for visiting my profile!*
