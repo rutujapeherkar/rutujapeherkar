@@ -34,10 +34,7 @@ Passionate about building efficient, user-friendly applications and continuously
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="30" width="40"/>
 </a>
 
-<a href="https://www.hackerrank.com/profile/peherkarrutuja" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40"/>
-</a>
-</p>
+
 
 ---
 
