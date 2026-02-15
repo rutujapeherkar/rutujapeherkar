@@ -58,13 +58,19 @@ I don’t just write code — I build solutions with clarity, structure and perf
 ## 📊 GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rutujapeherkar&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rutujapeherkar&theme=github-dark&hide_border=true" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rutujapeherkar&theme=github_dark" />
+</p>
+
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rutujapeherkar&theme=github-dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutujapeherkar&layout=compact&theme=github_dark&hide_border=true" height="140"/>
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rutujapeherkar&theme=github_dark" />
+
 </p>
+
 
 ---
 
