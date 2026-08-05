@@ -18,7 +18,7 @@
 
 ## 👩‍💻 Who I Am
 
-🎓 Second-Year Computer Science Student  
+🎓 Third-Year Computer Science Student  
 💡 Passionate about writing efficient, structured and scalable code  
 🚀 Focused on Software Development & Real-World Problem Solving  
 📈 Actively improving through projects, DSA & consistent GitHub contributions  
